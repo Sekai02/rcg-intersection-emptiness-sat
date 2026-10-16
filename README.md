@@ -1,2 +1,2 @@
-# extended-rcg-for-sat
-Extension of Range Concatenation Grammars (RCG) for encoding and solving Boolean Satisfiability (SAT) problems via formal language theory
+# rcg-intersection-emptiness-sat
+Bachelor's thesis: Boolean satisfiability (SAT) framed as the emptiness of the intersection of a Range Concatenation Grammar (RCG) with a finite regular language.
